@@ -1,0 +1,37 @@
+body {
+    background-image: url("images/bg_image.jpg");
+}
+
+h1 {
+    color: darkorange;
+    text-align: center;
+}
+
+.secondary-title {
+    color: darkred;
+    text-align: center;
+}
+
+.table-recepie {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px dashed;
+    border-color: darkorange;
+}
+
+.text {
+    font-family: cursive;
+    font-size: medium;
+}
+
+.first-column {
+    column-width: auto;
+}
+
+.second-column {
+    column-width: auto;
+}
+
+
+
+
